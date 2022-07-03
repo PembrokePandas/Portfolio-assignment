@@ -7,4 +7,5 @@
 3. Make sure the data file is stored in the same location as BRFSS.ipynb
 4. Run BRFSS.ipynb with Jupyter Notebook
 
-Additional information about the dataset can be found in codebook15_llcp.pdf and 
+Additional information about the dataset can be found in codebook15_llcp.pdf
+The file Report.pdf contains the report and can be consulted if you want to learn more about this project
